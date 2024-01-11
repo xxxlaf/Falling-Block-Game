@@ -1,0 +1,1 @@
+const div_MainArea = document.getElementById("div main-area");
